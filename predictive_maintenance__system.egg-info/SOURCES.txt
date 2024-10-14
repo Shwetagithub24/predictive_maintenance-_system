@@ -1,0 +1,8 @@
+README.md
+setup.py
+predictive_maintenance__system.egg-info/PKG-INFO
+predictive_maintenance__system.egg-info/SOURCES.txt
+predictive_maintenance__system.egg-info/dependency_links.txt
+predictive_maintenance__system.egg-info/requires.txt
+predictive_maintenance__system.egg-info/top_level.txt
+src/__init__.py
