@@ -1,0 +1,5 @@
+[2024-10-15 12:55:33,237] 8 root - INFO - The execution has started.
+[2024-10-15 12:55:33,238] 19 root - INFO - Reading SQL database started.
+[2024-10-15 12:55:33,594] 30 root - INFO - Completed reading from MySQL Database.
+[2024-10-15 12:55:33,890] 42 root - INFO - Train and Test data saved in .csv file
+[2024-10-15 12:55:33,890] 43 root - INFO - Data Ingestion completed.

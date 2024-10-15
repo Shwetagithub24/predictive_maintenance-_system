@@ -1,0 +1,6 @@
+[2024-10-15 12:59:23,861] 8 root - INFO - The execution has started.
+[2024-10-15 12:59:23,862] 19 root - INFO - Reading SQL database started.
+[2024-10-15 12:59:23,869] 28 root - INFO - Connected to the Database: <pymysql.connections.Connection object at 0x0000025672FE4140>
+[2024-10-15 12:59:24,086] 30 root - INFO - Completed reading from MySQL Database.
+[2024-10-15 12:59:24,311] 42 root - INFO - Train and Test data saved in .csv file
+[2024-10-15 12:59:24,311] 43 root - INFO - Data Ingestion completed.
