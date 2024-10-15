@@ -36,8 +36,8 @@ class DataIngestion:
 
             # 3. Train Test Split
             train_set,test_set = train_test_split(df,test_size=0.2,random_state=42)
-            df.to_csv(self.ingestion_config.train_data_path,index=False,header=True)
-            df.to_csv(self.ingestion_config.test_data_path,index=False,header=True)
+            train_set.to_csv(self.ingestion_config.train_data_path,index=False,header=True)
+            test_set.to_csv(self.ingestion_config.test_data_path,index=False,header=True)
 
             logging.info("Train and Test data saved in .csv file")
             logging.info("Data Ingestion completed.")
